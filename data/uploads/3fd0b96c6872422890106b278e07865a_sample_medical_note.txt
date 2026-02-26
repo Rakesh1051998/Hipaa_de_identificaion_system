@@ -1,0 +1,42 @@
+PATIENT MEDICAL RECORD
+
+Patient Name: John Smith
+Date of Birth: 03/15/1975
+Medical Record Number: MRN-87654321
+Social Security Number: 123-45-6789
+
+Date of Visit: January 15, 2024
+Phone: (555) 123-4567
+Email: john.smith@email.com
+
+CHIEF COMPLAINT:
+Patient presents with persistent cough and fever for 5 days.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Smith is a 48-year-old male who reports onset of symptoms on January 10, 2024.
+He has been experiencing temperature up to 101.5°F, productive cough with yellow sputum,
+and generalized fatigue.
+
+PAST MEDICAL HISTORY:
+- Hypertension (diagnosed 2010)
+- Type 2 Diabetes Mellitus
+- Appendectomy in 1995 at St. Mary's Hospital
+
+PHYSICAL EXAMINATION:
+Temperature: 100.8°F
+Blood Pressure: 138/85 mmHg
+Heart Rate: 88 bpm
+Respiratory Rate: 20/min
+
+ASSESSMENT AND PLAN:
+1. Acute Bronchitis - likely viral etiology
+2. Continue home medications for HTN and DM
+3. Follow-up in 1 week or sooner if symptoms worsen
+
+PROVIDER INFORMATION:
+Dr. Emily Johnson, MD
+License: MD-123456
+Contact: (555) 987-6543
+
+Patient seen at: Boston Medical Center
+Address: 123 Main Street, Boston, MA 02115
