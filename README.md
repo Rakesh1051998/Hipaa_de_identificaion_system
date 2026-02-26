@@ -270,26 +270,7 @@ This system handles key HIPAA identifiers per 45 CFR § 164.514(b)(2):
 
 ## 📚 Additional Documentation
 
-- **Testing Report:** See [TESTING_VALIDATION_REPORT.md](TESTING_VALIDATION_REPORT.md) for comprehensive test results
-- **Quick Reference:** See [QUICK_REFERENCE.md](QUICK_REFERENCE.md) for quick start guide
+
 - **API Documentation:** http://localhost:8000/docs (when running)
 
----
-
-## 🤝 Support
-
-For questions or issues:
-1. Check the [API documentation](http://localhost:8000/docs)
-2. Review the [Testing Report](TESTING_VALIDATION_REPORT.md)
-3. Examine Docker logs for errors
-
----
-
-## 📄 License
-
-This project is a functional prototype for the AI/ML Engineer assignment evaluation.
-
----
-
-**Status:** ✅ Fully Operational | **Tests Passed:** 34/34 | **HIPAA Compliance:** Active
 
